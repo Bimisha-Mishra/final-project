@@ -1,0 +1,30 @@
+ h1{
+     color:white;
+     background-color:black;
+     text-align: center;
+ }
+ .slideshow{
+    width:80%;
+    height:700px;
+    margin:auto;
+}
+h2{
+    background-color:#1c9da2;
+}
+#slideimage{
+    width:60%;
+    height:350px;
+}
+
+#slideimage1{
+    width:60%;
+    height:350px;
+}
+#slideimage2{
+    width:60%;
+    height:350px;
+}
+#slideimage3{
+    width:60%;
+    height:350px;
+}
